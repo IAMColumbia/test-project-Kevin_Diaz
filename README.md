@@ -1,8 +1,11 @@
-# test-project-Kevin_Diaz
+# test-project-Kevin\_Diaz
+
 homework for game scripting class
 
-#Great FPS Game
+\#Great FPS Game
 Description of the great game
 
 ## Key Feature 1
-Let's go
+
+Test of it works
+
